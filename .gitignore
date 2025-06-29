@@ -1,0 +1,3 @@
+# Ignore all files in cake-app directory but keep the folder
+cake-app/*
+!cake-app/.gitkeep
